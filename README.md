@@ -2,7 +2,7 @@
 **Full Stack Web Developer**  
 Jamui, Bihar, India  
 krpriyanshu79858@gmail.com  
-[LinkedIn](www.linkedin.com/in/priyanshu-kumar-006326325)
+[www.linkedin.com/in/priyanshu-kumar-006326325](url)
 
 ---
 
