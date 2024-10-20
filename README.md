@@ -34,3 +34,8 @@ Ludhiana East, Punjab, India
 
 #### Technologies Used:
 - **Frontend**: HTML, CSS
+
+- ## Screenshots
+"./Screenshot 2024-10-20 141629.png"
+"./Screenshot 2024-10-20 141653.png"
+"./Screenshot 2024-10-20 141707.png"
