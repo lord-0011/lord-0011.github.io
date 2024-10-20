@@ -36,6 +36,7 @@ Ludhiana East, Punjab, India
 - **Frontend**: HTML, CSS
 
 - ## Screenshots
-![Uploading Screenshot 2024-10-20 141629.png…]()
+![Screenshot 2024-10-20 141629](https://github.com/user-attachments/assets/841a4325-f970-47bc-96ff-fb9cfe1651a1)
+
 "./Screenshot 2024-10-20 141653.png"
 "./Screenshot 2024-10-20 141707.png"
