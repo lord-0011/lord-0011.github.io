@@ -37,6 +37,6 @@ Ludhiana East, Punjab, India
 
 - ## Screenshots
 ![Screenshot 2024-10-20 141629](https://github.com/user-attachments/assets/841a4325-f970-47bc-96ff-fb9cfe1651a1)
+![Screenshot 2024-10-20 141653](https://github.com/user-attachments/assets/c92fcb0f-faea-4c72-b456-b683115d5f95)
+![Screenshot 2024-10-20 141707](https://github.com/user-attachments/assets/98e31253-a565-4052-87b9-5b4e59696c79)
 
-"./Screenshot 2024-10-20 141653.png"
-"./Screenshot 2024-10-20 141707.png"
